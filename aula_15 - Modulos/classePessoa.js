@@ -19,4 +19,4 @@ class Pessoa{
     }
 }
 
-module.exports = Pessoa; // deixa o módulo disponível para outros poderem importa-lo
+module.exports = Pessoa; // deixa o módulo disponível para outros arquivos poderem importa-lo
